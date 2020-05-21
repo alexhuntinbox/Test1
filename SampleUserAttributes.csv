@@ -1,0 +1,8 @@
+FirstName,Surname,Branch,City,Country,CompanyName,CountryCode,Email,EmployeeId,Exstention Number,LoginScript,Manager,mobile,OrgDepartmentName,PostalCode,PostOfficeBoxNumber,ProxyAddresses,StreetName,Title
+Shay,Kavanagh,Christchurch,Christchurch,New Zealand,Cyclone ,554,shay.kavanagh@Cyclone.co.nz,331,321,default.bat1,1,1111111111,Professional Services,8021,1 barrington,SMTP:shay.kavanagh@Cyclone.co.nz,Northbrook,Solutions Architect
+Shahar,Patrick,Wellington,Wellington,Australia,Hurricane,36,Shahar.patrick@Hurricane.co.nz,332,322,default.bat2,2,2222222222,Sales,8022,2 Barrington,SMTP:Shahar.patrick@Hurricane.co.nz,Ross,Sales Team Leader
+Juliette,Proctor,Dunedun,Dunedun,United Kingdom,Temptest,826,Juliette.Proctor@Temptest.co.nz,333,323,default.bat3,3,3333333333,Human Reasources,8023,3 Barrington,SMTP:Juliette.Proctor@Temptest.co.nz,White,HR co-ordinator
+Blake,Cresswell,Auckland,Auckland,United States of America,Gale,840,Blake.Cresswell@Gale.co.nz,334,324,default.bat4,4,4444444444,Sales,8024,4 Barrington,SMTP:Blake.Cresswell@Gale.co.nz,Carmen,Sales Manager
+Aden,Holt,Auckland,Auckland,Germany,Tornado,276,Aden.Holt@Tornado.co.nz,335,325,default.bat5,5,5555555555,Help Desk,8025,5 Barrington,SMTP:Aden.Holt@Tornado.co.nz,Wigram,Helpdesk Techician
+Rosa,Reiley,Christchurch,Christchurch,France,Typhoon,250,Rosa.Reily@typhoon.co.nz,336,326,default.bat6,6,6666666666,Legal,8026,6 Barrington,SMTP:Rosa.Reily@typhoon.co.nz,Main North,Defeater of Lawsuits
+Caspar,Haines,Dunedun,Dunedun,Madagascar,Sqall,450,Aden.Holt@Tornado.co.nz,337,327,default.bat7,7,7777777777,Janitor,8027,7 Barrington,SMTP:aden.Holt@Tornado.co.nz,Queen,Office Hygenie Control Specialist
